@@ -7,7 +7,7 @@ class MeiFun extends Noodle {
 
   @Override
   public void cook () {
-    System.out.println("Pre-soak until tender");
+    System.out.println("Pre-soak until tender.");
     System.out.println("Boiling.");
     this.texture = "cooked";
   }
