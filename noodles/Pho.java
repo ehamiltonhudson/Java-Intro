@@ -6,7 +6,7 @@ class Pho extends Noodle {
 
   @Override
   public String getCookPrep() {
-    return "Soak pho for 1 hour, then boil for 1 minute in broth. Then garnish with cilantro and jalapeno.";
+    return "Soak pho for 1 hour, then boil for 1 minute in broth. Serve w/ hoisin sauce, bean sprouts, and jalapeno. Add slice of lime and garnish with cilantro.";
   }
 
   public String toString() {
